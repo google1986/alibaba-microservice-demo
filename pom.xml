@@ -14,6 +14,8 @@
         <module>alibaba-nacos-provider-demo-8002</module>
         <module>alibaba-nacos-provider-demo-8003</module>
         <module>alibaba-nacos-consumer-demo-9001</module>
+        <module>alibaba-nacos-feign-consumer-demo-9002</module>
+        <module>alibaba-nacos-config-demo-3344</module>
     </modules>
 
     <properties>
@@ -52,7 +54,7 @@
             <dependency>
                 <groupId>com.alibaba.cloud</groupId>
                 <artifactId>spring-cloud-alibaba-dependencies</artifactId>
-                <version>2.1.0.RELEASE</version>
+                <version>2.1.1.RELEASE</version>
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>

@@ -1,0 +1,14 @@
+server:
+  port: 9002
+spring:
+  application:
+    name: nacos-feign-microservice-dept-consumer
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 192.168.67.140:8848
+
+#开启feign+sentinel
+#feign:
+#  sentinel:
+#    enabled: true
