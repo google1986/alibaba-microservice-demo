@@ -16,6 +16,7 @@
         <module>alibaba-nacos-consumer-demo-9001</module>
         <module>alibaba-nacos-feign-consumer-demo-9002</module>
         <module>alibaba-nacos-config-demo-3344</module>
+        <module>alibaba-sentinel-demo-8401</module>
     </modules>
 
     <properties>
